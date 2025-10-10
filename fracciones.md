@@ -186,6 +186,44 @@ $$ 9 + \frac{5+6}{13} $$
 $$9 + \frac{11}{13} = 9 \frac{11}{13} $$
 
 
+#### Diferente denominador
+$$ \frac{5}{6} + \frac{1}{4} $$
+
+> Buscamos el denominador comun, en este caso es 12
+$$ (\frac{5 \cdot 2}{6 \cdot 2} \Rightarrow \frac{10}{12}) + (\frac{1 \cdot 3}{4 \cdot 3} \Rightarrow \frac{3}{12}) $$
+$$ \frac{10+3}{12} = \frac{13}{12} $$
+
+---
+
+$$ 19 \frac{3}{18} + 18 \frac{2}{3} $$
+
+> Separamos el numero entero y mixto
+$$ 19 + 18 + \frac{3}{18} + \frac{2}{3} $$
+> Sumamos los enteros
+$$ 37 + \frac{3}{18} + \frac{2}{3} $$
+> Buscamos el denominador comun, en este caso es 18
+$$ 37 + \frac{3}{18} + (\frac{2 \cdot 6}{3 \cdot 6} \Rightarrow \frac{12}{18}) $$
+$$ 37 + \frac{3+12}{18} $$
+$$ 37 + \frac{15}{18} = 37 \frac{15}{18} $$
+
+> Simplificamos la fraccion
+$$ 37 \frac{15 \div 3}{18 \div 3} = 37 \frac{5}{6} $$
+
+#### Agrupación
+$$ 2 \frac{2}{3} + 8 \frac{3}{4} $$
+> agrupamos uno debajo del otro
+$$ 2 \frac{2}{3} $$
+$$ 8 \frac{3}{4} + $$
+
+> Buscamos el denominador comun, en este caso es 12
+$$ 2 \frac{8}{12} $$
+$$ 8 \frac{9}{12} + $$
+$$ ------------- $$
+$$ 10 \frac{17}{12} $$
+> Convertimos la fraccion impropia a numero mixto
+$$ 10 + 1 \frac{5}{12} = 11 \frac{5}{12} $$
+
+
 ### Resta
 $$ \frac{8}{18} - \frac{5}{18} $$
 $$ \frac{8-5}{18} = \frac{3}{18} $$
@@ -204,3 +242,89 @@ $$ 6 + \frac{4}{16}  = 6 \frac{4}{16} $$
 
 > Simplificamos la fraccion
 $$ 6 \frac{4 \div 4}{16 \div 4} = 6 \frac{1}{4} $$
+
+#### Diferente denominador
+$$ \frac{3}{4} - \frac{5}{8} $$
+
+> Buscamos el denominador comun, en este caso es 8
+$$ (\frac{3 \cdot 2}{4 \cdot 2} \Rightarrow \frac{6}{8}) - \frac{5}{8} $$
+$$ \frac{6-5}{8} = \frac{1}{8} $$
+
+---
+
+$$ 7 \frac{6}{9} - 3 \frac{2}{5} $$
+$$ 7 \frac{6}{9} - (3 \frac{2}{5}) $$
+$$ 7 \frac{6}{9} - 3 - \frac{2}{5} $$
+
+> Restamos los enteros y luego las fracciones
+$$ (7 - 3) + (\frac{6}{9} - \frac{2}{5}) $$
+$$ 4 + \frac{6}{9} - \frac{2}{5} $$
+> Buscamos el denominador comun, en este caso es 45
+$$ 4 + (\frac{6 \cdot 5}{9 \cdot 5} \Rightarrow \frac{30}{45}) - (\frac{2 \cdot 9}{5 \cdot 9} \Rightarrow \frac{18}{45}) $$
+$$ 4 + \frac{30-18}{45} = 4 + \frac{12}{45} $$
+> Simplificamos la fraccion
+$$ 4 \frac{12 \div 3}{45 \div 3} = 4 \frac{4}{15} $$
+
+#### Agrupación
+$$ 17 \frac{4}{9} - 12 \frac{2}{3} $$
+
+> agrupamos uno debajo del otro
+$$ 17 \frac{4}{9} $$
+$$ 12 \frac{2}{3} - $$
+
+> Buscamos el denominador comun, en este caso es 9 (MCD)
+$$ 17 \frac{4}{9} $$
+$$ 12 \frac{6}{9} - $$
+> bajamos el entero en 16 y sumamos 9 a la fraccion
+$$ 16 \frac{13}{9} $$
+$$ 12 \frac{6}{9} - $$
+$$ ------------- $$
+$$ 4 \frac{7}{9} $$
+
+### Multiplicación
+
+#### Naturales
+
+$$ 7 \cdot \frac{2}{5} $$
+$$ \frac{7 \cdot 2}{5} = \frac{14}{5} $$
+
+#### Fracciones
+$$ \frac{3}{4} \cdot \frac{2}{5} $$
+$$ \frac{3 \cdot 2}{4 \cdot 5} = \frac{6}{20} $$
+
+#### Mixtos
+$$ 1 \frac{3}{4} \cdot 7 \frac{1}{5} $$
+> Primero convertimos los mixtos a impropios
+$$ \frac{(1 \cdot 4) + 3}{4} = \frac{7}{4} $$
+$$ \frac{(7 \cdot 5) + 1}{5} = \frac{36}{5} $$
+$$ \frac{7}{4} \cdot \frac{36}{5} $$
+$$ \frac{7 \cdot 36}{4 \cdot 5} = \frac{252}{20} $$
+> Simplificamos la fraccion
+$$ \frac{252 \div 4}{20 \div 4} = \frac{63}{5} $$
+> Convertimos la fraccion impropia a numero mixto
+$$ 63 \div 5 = 12 \quad \text{(cociente)} $$
+$$ 63 - (12 \cdot 5) = 3 \quad \text{(residuo)} $$
+$$ 12 \frac{3}{5} $$
+
+#### Vista como escala
+> la multiplicacion vista como escala, es cuando se multiplica un numero por una fraccion, y el resultado depende de si la fraccion es mayor o menor que 1
+
+** Ejemplo 1: fraccion mayor que 1 **
+$$ 7 \cdot \frac{5}{4} $$
+$$ 148 \cdot \frac{3}{2} $$
+$$ = \frac{148 \cdot 3}{2} $$
+$$ = \frac{444}{2} $$
+$$ = 222 $$
+---
+** Ejemplo 2: fraccion igual que 1 **
+$$ 148 \cdot \frac{25}{25} $$
+$$ = \frac{148 \cdot 25}{25} $$
+$$ = \frac{3700}{25} $$
+$$ = 148 $$
+
+---
+** Ejemplo 3: fraccion menor que 1 **
+$$ 148 \cdot \frac{2}{5} $$
+$$ = \frac{148 \cdot 2}{5} $$
+$$ = \frac{296}{5} $$
+$$ = 59.2 $$
