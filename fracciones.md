@@ -5,6 +5,10 @@
 ## Denominador común
 >El denominador común es un número que es múltiplo de los denominadores de dos o más fracciones. Se utiliza para sumar, restar o comparar fracciones con diferentes denominadores.
 
+## Tipos de fracciones
+- Fracción propia: el numerador es menor que el denominador. Ejemplo: $$ \frac{3}{4} $$
+- Fracción impropia: el numerador es mayor o igual que el denominador. Ejemplo: $$ \frac{5}{3} $$
+
 ### Encontrar el denominador común
 >Para encontrar el denominador común, hay dos opciones: encontrar el mínimo común múltiplo (MCM) o multiplicar los denominadores.
 
@@ -328,3 +332,44 @@ $$ 148 \cdot \frac{2}{5} $$
 $$ = \frac{148 \cdot 2}{5} $$
 $$ = \frac{296}{5} $$
 $$ = 59.2 $$
+
+### División
+
+> Una fracción representa una división. Por ejemplo, la fracción ¾ representa 3 dividido por 4.
+
+> La división de fracciones implica multiplicar por el recíproco (inverso) de la segunda fracción.
+
+#### Naturales
+$$ 48 \div \frac{2}{3} $$
+$$ = 48 \cdot \frac{3}{2} $$
+$$ = \frac{48 \cdot 3}{2} $$
+$$ = \frac{144}{2} $$
+$$ = 72 $$
+
+---
+
+$$ \frac{1}{5} \div 7 $$
+$$ = \frac{1}{5} \cdot \frac{1}{7} $$
+$$ = \frac{1 \cdot 1}{5 \cdot 7} $$
+$$ = \frac{1}{35} $$
+
+#### Fracciones
+
+**Opcion 1: invertir y multiplicar (recíproco)**
+$$ \frac{3}{4} \div \frac{2}{5} $$
+$$ = \frac{3}{4} \cdot \frac{5}{2} $$
+$$ = \frac{3 \cdot 5}{4 \cdot 2} $$
+$$ = \frac{15}{8} $$
+> Convertimos la fraccion impropia a numero mixto
+$$ 15 \div 8 = 1 \quad \text{(cociente)} $$
+$$ 15 - (1 \cdot 8) = 7 \quad \text{(residuo)} $$
+$$ 1 \frac{7}{8} $$
+---
+**Opcion 2: dividir y simplificar**
+$$ \frac{8}{3} \div \frac{1}{3} $$
+$$ = \frac{8 \div 1}{3 \div 3} $$
+$$ = \frac{8}{1} $$
+$$ = 8 $$
+
+#### Naturales y Fracciones: 
+
