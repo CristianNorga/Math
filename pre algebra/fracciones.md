@@ -247,6 +247,15 @@ $$ 6 + \frac{4}{16}  = 6 \frac{4}{16} $$
 > Simplificamos la fraccion
 $$ 6 \frac{4 \div 4}{16 \div 4} = 6 \frac{1}{4} $$
 
+---
+
+**Ejemplo:**
+$$ \frac{1}{3} - 3 - \frac{2}{3} $$
+$$ = \frac{1}{3} - \frac{2}{3} - 3 $$
+$$ = \frac{1-2}{3} - 3 $$
+$$ = -\frac{1}{3} - 3 $$
+$$ = -3 \frac{1}{3} $$
+
 #### Diferente denominador
 $$ \frac{3}{4} - \frac{5}{8} $$
 
@@ -291,6 +300,12 @@ $$ 4 \frac{7}{9} $$
 
 $$ 7 \cdot \frac{2}{5} $$
 $$ \frac{7 \cdot 2}{5} = \frac{14}{5} $$
+
+**inverso**
+$$ \frac{5}{14} \cdot 3 = \frac{5 \cdot 3}{14} = \frac{15}{14} $$
+
+**Numero negativo**
+$$ \frac{3}{8} \cdot (-2) = \frac{3 \cdot (-2)}{8} = \frac{-6}{8} = -\frac{3}{4} $$
 
 #### Fracciones
 $$ \frac{3}{4} \cdot \frac{2}{5} $$
