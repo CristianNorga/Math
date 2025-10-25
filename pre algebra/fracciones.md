@@ -233,6 +233,13 @@ $$ \frac{8}{18} - \frac{5}{18} $$
 $$ \frac{8-5}{18} = \frac{3}{18} $$
 $$ \frac{3\div3}{18\div3} = \frac{1}{6} $$
 
+#### Naturales
+
+$$ 15 - \frac{4}{9} $$
+> Convertimos el numero natural a fraccion con denominador 9
+$$ 15 = \frac{15 \cdot 9}{9} = \frac{135}{9} $$
+$$ \frac{135}{9} - \frac{4}{9} = \frac{135-4}{9} = \frac{131}{9} $$
+
 #### Mixtos
 $$ 11 \frac{12}{16} - 5 \frac{8}{16} $$
 > Primero sumamos los enteros y luego las fracciones
