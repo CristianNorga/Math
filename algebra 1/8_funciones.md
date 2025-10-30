@@ -81,3 +81,45 @@ Por lo tanto, la función f(b) en términos de 'b' es:
 $$ f(b) = \frac{-52 - 7b}{4} $$
 Simplificando, podemos escribir:
 $$ f(b) = -13 - \frac{7b}{4} $$
+
+## Tasa de cambio promedio
+
+### Introducción a la tasa de cambio promedio
+La tasa de cambio promedio es una medida que indica cómo cambia una cantidad en relación con otra durante un intervalo específico. En matemáticas, se utiliza comúnmente para describir cómo varía una función entre dos puntos en su dominio.
+
+### Ejemplo
+1. Considere la función d(t) = 3t + 1, que representa la distancia (d) en kilómetros recorrida por un automóvil en función del tiempo (t) en horas. Calcule la tasa de cambio promedio de la distancia entre t = 2 horas y t = 5 horas.
+**Solución:**
+Para calcular la tasa de cambio promedio, utilizamos la fórmula:
+$$ \text{Tasa de cambio promedio} = \frac{d(t_2) - d(t_1)}{t_2 - t_1} $$
+Donde:
+- $ t_1 = 2 $ horas
+- $ t_2 = 5 $ horas
+
+Ahora, calculamos $ d(t_1) $ y $ d(t_2) $:
+- $ d(2) = 3(2) + 1 = 6 + 1 = 7 $ kilómetros
+- $ d(5) = 3(5) + 1 = 15 + 1 = 16 $ kilómetros
+
+Sustituyendo estos valores en la fórmula de la tasa de cambio promedio:
+$$ \text{Tasa de cambio promedio} = \frac{16 - 7}{5 - 2} = \frac{9}{3} = 3 $$
+
+Por lo tanto, la tasa de cambio promedio de la distancia entre t = 2 horas y t = 5 horas es de 3 kilómetros por hora.
+
+2. Considere la función d(t) = t^2 + 1, que representa la distancia (d) en kilómetros recorrida por un automóvil en función del tiempo (t) en horas. Calcule la tasa de cambio promedio de la distancia entre t = 1 hora y t = 4 horas.
+**Solución:**
+Para calcular la tasa de cambio promedio, utilizamos la fórmula:
+$$ \text{Tasa de cambio promedio} = \frac{d(t_2) - d(t_1)}{t_2 - t_1} $$
+Donde:
+- $ t_1 = 1 $ hora
+- $ t_2 = 4 $ horas
+
+Ahora, calculamos $ d(t_1) $ y $ d(t_2) $:
+- $ d(1) = (1)^2 + 1 = 1 + 1 = 2 $ kilómetros
+- $ d(4) = (4)^2 + 1 = 16 + 1 = 17 $ kilómetros
+
+Sustituyendo estos valores en la fórmula de la tasa de cambio promedio:
+$$ \text{Tasa de cambio promedio} = \frac{17 - 2}{4 - 1} = \frac{15}{3} = 5 $$
+
+Por lo tanto, la tasa de cambio promedio de la distancia entre t = 1 hora y t = 4 horas es de 5 kilómetros por hora.
+
+> podemos pensar en las **rectas secantes** `(recta que intersecta la curva en dos puntos)` que conectan dos puntos en la gráfica de la función, y la pendiente de estas rectas secantes representa la tasa de cambio promedio entre esos dos puntos.

@@ -393,5 +393,12 @@ $$ = \frac{8 \div 1}{3 \div 3} $$
 $$ = \frac{8}{1} $$
 $$ = 8 $$
 
-#### Naturales y Fracciones: 
+#### Mixtos
+$$ \frac{-\frac{3}{10}}{-3} $$
+$$ = -\frac{3}{10} \cdot -\frac{1}{3} $$
+$$ = \frac{-3 \cdot -1}{10 \cdot 3} $$
+$$ = \frac{3}{30} $$
+$$ = \frac{3 \div 3}{30 \div 3} $$
+$$ = \frac{1}{10} $$
+
 
